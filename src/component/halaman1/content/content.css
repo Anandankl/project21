@@ -1,0 +1,11 @@
+#perusahaan1{
+    margin-top: 60px;
+}
+.row{
+    --bs-gutter-x: -0.5rem;
+}
+
+.col-md-12{
+    margin-top: 90px;
+}
+

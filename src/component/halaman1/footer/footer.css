@@ -1,0 +1,45 @@
+#footerlogo{
+    margin-left: 40px;
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
+
+#footer-links{
+    text-align: left;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+iframe{
+    margin-right: 50px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    #footerlogo{
+        margin-top: 20px;
+        margin-left: 38vmin;  
+        position: relative;
+        height: 100px;
+        width: 100px;
+    }
+
+    #footer-links{
+        text-align: left;
+        color: white;
+    }
+
+    .collapse:not(.show){
+        display: unset;
+    }
+
+
+    #notdisplay{
+        display: none;
+    }
+ }
